@@ -1,0 +1,19 @@
+{
+  "name": "hopps",
+  "version": "0.0.1",
+  "description": "custom file name changer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBurnsby/hopps.git"
+  },
+  "author": "Jon Burns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBurnsby/hopps/issues"
+  },
+  "homepage": "https://github.com/TheBurnsby/hopps#readme"
+}
